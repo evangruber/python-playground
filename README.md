@@ -10,5 +10,5 @@ A structured sandbox for mastering Python, automating tasks, and prototyping ide
 
 ## 🛠️ Current Progress
 
-- [x] `📚 Learning/slicing_tests.py` — Mastering list and string slicing syntax.
-- [x] `📚 Learning/exceptions_tests.py` — Testing error boundaries and try/except blocks.
+- [x] `📚 Learning/slicing_playground.py` — Mastering list and string slicing syntax.
+- [x] `📚 Learning/exceptions_playground.py` — Testing error boundaries and try/except blocks.
