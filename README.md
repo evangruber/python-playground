@@ -20,5 +20,5 @@ A structured sandbox for mastering Python fundamentals, experimenting with langu
 
 ## 🎯 Upcoming Playgrounds
 
-- [] `📚Learning/json_playground.py`
-- [] `📚Learning/file_io_playground.py`
+- [ ] `📚Learning/json_playground.py`
+- [ ] `📚Learning/file_io_playground.py`
