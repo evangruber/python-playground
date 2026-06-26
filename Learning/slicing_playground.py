@@ -1,3 +1,19 @@
+"""
+Topic:
+    String & List Slicing
+
+Purpose:
+    Explore Python's slicing syntax for strings and lists.
+
+Things to Learn:
+    - Start and stop indexes
+    - Negative indexing
+    - Omitting indexes
+    - Step values
+    - Reversing sequences with slicing
+"""
+
+
 def main():
 
     example_input = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"

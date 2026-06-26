@@ -1,6 +1,22 @@
+"""
+Topic:
+    Exception Handling
+
+Purpose:
+    Learn how Python handles runtime errors using try/except blocks.
+
+Things to Learn:
+    - try and except
+    - Catching specific exceptions
+    - Using the exception object (as e)
+    - else and finally blocks
+    - Common built-in exceptions
+"""
+
+
 def main():
 
-    print("ZeroDivisionError")
+    print("=== ZeroDivisionError ===")
 
     try:
         print(divide(10, 0))
@@ -9,7 +25,7 @@ def main():
 
     print()
 
-    print("ValueError")
+    print("=== ValueError ===")
 
     try:
         number = int("hello")
@@ -18,7 +34,7 @@ def main():
 
     print()
 
-    print("IndexError")
+    print("=== IndexError ===")
 
     try:
         numbers = [1, 2, 3]
