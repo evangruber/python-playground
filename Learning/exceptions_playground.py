@@ -1,0 +1,35 @@
+def main():
+
+    print("ZeroDivisionError")
+
+    try:
+        print(divide(10, 0))
+    except ZeroDivisionError as e:
+        print(e)
+
+    print()
+
+    print("ValueError")
+
+    try:
+        number = int("hello")
+    except ValueError as e:
+        print(e)
+
+    print()
+
+    print("IndexError")
+
+    try:
+        numbers = [1, 2, 3]
+        print(numbers[5])
+    except IndexError as e:
+        print(e)
+
+
+def divide(a, b):
+    return a / b
+
+
+if __name__ == "__main__":
+    main()
