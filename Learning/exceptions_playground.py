@@ -30,6 +30,14 @@ def main():
 def divide(a, b):
     return a / b
 
+'''
+Add later:
+FileNotFoundError
+TypeError
+KeyError
+NameError
+AttributeError
+'''
 
 if __name__ == "__main__":
     main()
